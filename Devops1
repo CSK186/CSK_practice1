@@ -24,4 +24,10 @@ I'm working on git fetch
 I'm working in work1 branch
 Working on git again
 working on session6 git work flow
+<<<<<<< HEAD
+undo remote commit
+=======
 working on session3 today
+>>>>>>> fb132b13cd9e11f859fbe1d3bd850ff3ac2afc55
+undo remote commit
+public commits
