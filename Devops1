@@ -40,3 +40,4 @@ This is added at 15:18 pm
 =======
 This is added by other person in the team
 >>>>>>> bf59b7a4577331edaeebfd28db7cc6608084ac75
+git fetch concept will downloads the commits from remote repository to local repository. 
