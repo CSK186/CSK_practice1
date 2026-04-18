@@ -30,4 +30,9 @@ undo remote commit
 working on session3 today
 >>>>>>> fb132b13cd9e11f859fbe1d3bd850ff3ac2afc55
 undo remote commit
+<<<<<<< HEAD
 public commits
+=======
+working on session3 again today
+>>>>>>> 0bbed4fed25ffcdf1d6d7ca86eff0b0f6e632c66
+This is added at 15:18 pm
