@@ -50,5 +50,9 @@ working on session3 git clone concept
 undo remote commit 
 =======
 Done changes in remote repository
+<<<<<<< HEAD
 >>>>>>> 8e4adfa89ecf2e8bb3024a48ea89c2959110fe34
 Demo
+=======
+I'm working on git push
+>>>>>>> 99ac3de557346516b1f2a40614efbe52bd58529b
