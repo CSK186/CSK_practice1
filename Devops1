@@ -52,6 +52,7 @@ undo remote commit
 Done changes in remote repository
 <<<<<<< HEAD
 >>>>>>> 8e4adfa89ecf2e8bb3024a48ea89c2959110fe34
+Working on git fetch
 Demo
 =======
 I'm working on git push
