@@ -60,4 +60,8 @@ I'm working on git push
 currently i'm working on branching strategy
 I'm working on branching strategy topic,work2 branch
 Working on git 
+<<<<<<< HEAD
 working on git pull
+=======
+This commit is sent by some other employee.
+>>>>>>> d1e93dbd756a90d32bde8fa9208f44b7ea5e8d71
